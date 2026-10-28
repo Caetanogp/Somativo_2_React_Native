@@ -41,7 +41,7 @@
     "doctor": "expo-doctor"
   },
   "private": true,
-  "description": "DigiDex: catálogo interativo de Digimon em React Native + Expo (Somativo 2 — Desenvolvimento Mobile Híbrido).",
+  "description": "DigiDex: catálogo interativo de Digimon em React Native + Expo (Somativo 2 — Mobile Development: Framework).",
   "jest": {
     "preset": "jest-expo",
     "testMatch": [
