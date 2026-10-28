@@ -1,4 +1,4 @@
-# DigiDex — Catálogo interativo de Digimon (React Native + Expo)
+# DigiDex - Catálogo interativo de Digimon (React Native + Expo)
 
 Projeto Somativo de **Mobile Development: Framework** (BSI) · React Native + Expo + TypeScript.
 Aplicativo que consome a [Digi-API](https://digi-api.com) (pública, gratuita, sem chave) com login,
