@@ -14,7 +14,7 @@ persistência local **ou** na nuvem (Firebase).
 | Matheus Brehm |
 | Davi Henrique |
 
-Vídeo de apresentação: [LINK DO YOUTUBE]
+Vídeo de apresentação: [https://youtu.be/ILyOg3Uxkkk](https://youtu.be/ILyOg3Uxkkk)
 
 ## Como rodar
 

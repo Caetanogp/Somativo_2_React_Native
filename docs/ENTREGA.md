@@ -24,7 +24,7 @@
 ## Seção 1 — Links
 
 - **Repositório GitHub (público):** https://github.com/Caetanogp/Somativo_2_React_Native — o README explica como rodar (`npx expo start`).
-- **Vídeo (YouTube, público):** [https://youtu.be/XXXXXXXXXXX] — duração entre 6 e 9 minutos.
+- **Vídeo (YouTube, público):** https://youtu.be/ILyOg3Uxkkk — duração: 8 min 44 s.
 
 ## Seção 2 — Tema e configuração
 
@@ -85,7 +85,7 @@ nosso.
 
 - **Tema:** Navegação condicional (como o `AuthContext` escolhe entre o Stack de login e o do app, e por
   que não usar `navigation.navigate('Login')` no logout).
-- **Minuto no vídeo:** 5:30–8:00
+- **Minuto no vídeo:** a partir de 6:45 (até o final, 8:44)
 - Pontos para o vídeo: `RootNavigator.tsx` (renderização por estado), `AuthContext.tsx` (`isRestoring`),
   `services/auth/*` e `services/userData/*`.
 
